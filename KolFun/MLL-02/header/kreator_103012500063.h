@@ -5,9 +5,8 @@
 
 using namespace std;
 
-struct ------------
-{
-    ------------
+struct Kreator {
+    string idKreator;
 };
 
 typedef ------------ ------------;         // variabel alias untuk infor
